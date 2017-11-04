@@ -1,0 +1,30 @@
+.top {
+	font-size: 25px;
+	font-weight: bold;
+	text-align: center;
+	border: 5px solid green;
+	margin: 10px auto;
+	height: 180px;
+	width: 65%;
+}
+#head {
+	font-size: 50px;
+	font-weight: bolder;
+	font-style: italic;
+}
+#directions {
+	font-size: 18px;
+	font-weight: bolder;
+}
+.crystal {
+	text-align: center;
+}
+.bottom {
+	font-size:25px;
+	font-weight: bold;
+	text-align: center;
+	border: 5px solid green;
+	margin: 10px auto;
+	height: 220px;
+	width: 65%;
+}
